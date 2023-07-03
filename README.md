@@ -29,6 +29,7 @@ I'm an **Master's Student🎓 [@IIIT-H](https://www.iiit.ac.in)** pursuing CSE. 
 - 📙 Check out my [Resume](https://drive.google.com/file/d/1IL6FvQ0Y4QznViu9rP6vqpMO2XmNV8u-/view?usp=sharing)
 - 🎉 Fun-Fact: I ❤️ Science and Music 🎸
 
+
   
 ### 🖥️ My DevSetup
  <img src="https://img.shields.io/badge/Mac-555555.svg?&style=flat-square&logo=macos&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Notion-555555.svg?&style=flat-square&logo=notion&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
@@ -44,12 +45,12 @@ I'm an **Master's Student🎓 [@IIIT-H](https://www.iiit.ac.in)** pursuing CSE. 
 <code><img height="30" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"></code>
 
 
-
+<p> PS - 💥 Lex Fridman is the 🐐 </p>
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
 
 
 <!-- <details>
-<summary> 💥 Working on </summary>
+
 <br>
 <p align="center">
 <a href="https://github.com/Defcon27/Machine-Learning">
