@@ -26,7 +26,7 @@ I'm an **Master's Student🎓 [@IIIT-H](https://www.iiit.ac.in)** pursuing CSE. 
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for full time sde role
 - 💬 Ask me about Physics, Math, Computer Science, Podcasts
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1IL6FvQ0Y4QznViu9rP6vqpMO2XmNV8u-/view?usp=sharing)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1Wq8nsrHmXJDxkHMQeDjXkIXgriuLr3uK/view?usp=sharing)
 - 🎉 Fun-Fact: I ❤️ Science and Music 🎸
 
 
