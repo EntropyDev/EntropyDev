@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I have done **Master's in CSE🎓 [@IIIT-H](https://www.iiit.ac.in)**. I'm a **Tech Enthusiast 💻 😃** a constant learner. I love programming and building interesting products. Open to colab. <br/><br/>
+I have done **Master's in CSE🎓 [@IIIT-H](https://www.iiit.ac.in)**. I'm a **Tech Enthusiast 💻 😃** a constant learner. I love programming and building interesting products. Open to collab. <br/><br/>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/EntropyDev/)](https://github.com/EntropyDev/) 
