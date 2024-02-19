@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm an **Master's Student🎓 [@IIIT-H](https://www.iiit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** constantly learning. I love building interesting and amazing products and problem solving. Open to colab. <br/><br/>
+I have done **Master's in CSE🎓 [@IIIT-H](https://www.iiit.ac.in)**. I'm a **Tech Enthusiast 💻 😃** a constant learner. I love programming and building interesting products. Open to colab. <br/><br/>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/EntropyDev/)](https://github.com/EntropyDev/) 
@@ -15,19 +15,19 @@ I'm an **Master's Student🎓 [@IIIT-H](https://www.iiit.ac.in)** pursuing CSE. 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working MERN stack
-- 🌱 I’m currently learning Webpack ☕
+- 🔭 I’m currently working with MERN stack
+- 🌱 I’m currently learning Typescript, AWS and ML ☕
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 🧑‍💻 Web Apps
+  - 🧑‍💻 Web Apps, databases, AI models
   - 🖼 prompting Chat-GPT
   - 🛠 scripting
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for full time sde role
-- 💬 Ask me about Physics, Math, Computer Science, Podcasts
+- 👯 I’m looking to collaborate on interesting projects
+- 💻 I’m looking for a full time SDE role 
+- 💬 Ask me about Physics, Math, Computer Science, Philosophy and Podcasts
 - 📙 Check out my [Resume](https://docs.google.com/document/d/1Iq6xX782W4WKYa4AKA140O49-2_-MDz68CFnsJQ99KU/edit?usp=sharing)
-- 🎉 Fun-Fact: I ❤️ Science and Music 🎸
+- 🎉 Hobbies: I ❤️ Science, Sports and Music 🎸
 
 
   
