@@ -1,6 +1,11 @@
-### Hi there 👋 
+<h2 align="left">Hi there 👋, I'm Vaibhav</h2>
+<h4 align="left">Software Engineer | Backend & AI Systems</h4>
 
-I have done **Master's in CSE🎓 [@IIIT-H](https://www.iiit.ac.in)**. I'm a **Tech Enthusiast 💻 😃** a constant learner. I love programming and building interesting products. Open to collab. <br/><br/>
+<p align="left">
+  Master's in Computer Science @ IIIT Hyderabad
+</p>
+
+---
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/EntropyDev/)](https://github.com/EntropyDev/) 
@@ -10,27 +15,17 @@ I have done **Master's in CSE🎓 [@IIIT-H](https://www.iiit.ac.in)**. I'm a **T
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/vaibhavchimalgi/practice)](https://auth.geeksforgeeks.org/user/vaibhavchimalgi/practice)
 
 
-
-
-
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working with MERN stack
-- 🌱 I’m currently learning Typescript, AWS and ML ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
-
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 🧑‍💻 Web Apps, databases, AI models
-  - 🖼 prompting Chat-GPT
-  - 🛠 scripting
-- 👯 I’m looking to collaborate on interesting projects
-- 💻 I’m looking for a full time SDE role 
+- ☕ I build scalable **backend systems**, **full-stack apps**, and **AI-powered tools**
+- ⚙️ Experienced with **FastAPI, React, distributed systems**
+- ☁️ Work with **Azure, AWS, Docker, CI/CD pipelines**
+- 🤖 Interested in **LLMs, RAG systems, and data-driven applications**
 - 💬 Ask me about Physics, Math, Computer Science, Philosophy and Podcasts
-- 📙 Check out my [Resume](https://docs.google.com/document/d/1Iq6xX782W4WKYa4AKA140O49-2_-MDz68CFnsJQ99KU/edit?usp=sharing)
 - 🎉 Hobbies: I ❤️ Science, Sports and Music 🎸
 
 
-  
+<!--
 ### 🖥️ My DevSetup
  <img src="https://img.shields.io/badge/Mac-555555.svg?&style=flat-square&logo=macos&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Notion-555555.svg?&style=flat-square&logo=notion&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
@@ -43,9 +38,10 @@ I have done **Master's in CSE🎓 [@IIIT-H](https://www.iiit.ac.in)**. I'm a **T
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 <code><img height="30" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"></code>
+-->
 
 
-<p> PS - 💥 Lex Fridman is the 🐐 </p>
+PS - 💥 Open to **Software Engineer roles** and interesting collaborations. 🐐
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
 
 
