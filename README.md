@@ -5,8 +5,6 @@
   Master's in Computer Science @ IIIT Hyderabad
 </p>
 
----
-
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/EntropyDev/)](https://github.com/EntropyDev/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhavchimalgi/)](https://www.linkedin.com/in/vaibhavchimalgi/)
